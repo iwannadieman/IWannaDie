@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649589173 source:c:\users\hp\dropbox (ancien)\pc\documents\prog\c\esi_tp_idea\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
